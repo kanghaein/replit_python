@@ -35,3 +35,5 @@ visited = [False] * 9
 
 # 정의된 BFS 함수 호출
 bfs(graph, 1, visited)
+
+# O(N) 시간 소요, 하지만 DFS 보다는 빠르게 처리
